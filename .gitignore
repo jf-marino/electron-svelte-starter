@@ -90,3 +90,6 @@ out/
 
 # IDE files and folders
 .idea
+
+# Build
+public/build
